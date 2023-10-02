@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>Yes.53937ad2-60c7-11ee-9bfa-0045e270210e.jpg</filename>
+	<path>C:\Users\hpalm\Desktop\Programacion\Real_time_sign\Tensorflow\workspace\images\collectedImages\Yes.53937ad2-60c7-11ee-9bfa-0045e270210e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>290</ymin>
+			<xmax>503</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

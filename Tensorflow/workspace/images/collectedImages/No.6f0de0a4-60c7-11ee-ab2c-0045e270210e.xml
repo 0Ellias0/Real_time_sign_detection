@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>No.6f0de0a4-60c7-11ee-ab2c-0045e270210e.jpg</filename>
+	<path>C:\Users\hpalm\Desktop\Programacion\Real_time_sign\Tensorflow\workspace\images\collectedImages\No.6f0de0a4-60c7-11ee-ab2c-0045e270210e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>90</ymin>
+			<xmax>325</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>
